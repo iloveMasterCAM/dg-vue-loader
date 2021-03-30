@@ -26,8 +26,6 @@ module.exports = {
 	},
 };
 
-## github  https://github.com/iloveMasterCAM/dg-vue-loader.git
-
-
-
 ```
+
+## github git@github.com:iloveMasterCAM/dg-vue-loader.git
